@@ -23,7 +23,9 @@ Let's start off by 7 beginner or easy level projects. You can find the code atta
 
 - <strong> E-commerce Website Template </strong> - You can create an e-commerce landing page template using ReactJs as a beginner. You can also add some more functionality to it such as the <strong> add to cart </strong> functionality and <strong> theme switch</strong>.
 
+- <strong> Tip Calculator </strong> - you can create a basic tip Calculator that uses a basic simple logic you provide to calculate the tip amount for your order. This project will surely boost your confidence.
 
+- <strong> Social Media App Clone </strong> - You can create a clone of any social media app to boost your ReactJs skills. You can create its template and if you want you can add some additional features you always wanted to have on your social media app. *** Warning: Use it for only learning purpose to avoid copyright ***
 
 
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
