@@ -38,4 +38,8 @@ Let's now take a look at 7 intermediate ReactJs projects.
 
 - <strong> Weather App </strong> - You can create a working weather app using ReactJs and Hooks as your first Reactjs intermediate project. This project will help you in presenting your ReactJs skills and you can add it in your portfolio/resume.
 
+- <strong> Text Editor App </strong> - A Text Editor app is a good project idea for your second intermediate project. You can create your text utility app such that it can perform all the operations that the user wants such as converting text to uppercase/lowercase etc.
+
+- <strong> E-commerce website clone with functionalities </strong> - You can create a clone of your favourite e-commerce shopping website with some functionalities such as <b> Add to Cart</b>, <b>Price Calculator </b> etc. This project will be ideal to add in your resume/portfolio. *** ⚠ Warning: Use it for only learning purpose to avoid copyright ⚠ ***
+
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
