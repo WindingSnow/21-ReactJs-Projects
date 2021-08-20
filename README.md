@@ -21,7 +21,7 @@ Let's start off by 7 beginner or easy level projects. You can find the code atta
 - <strong> Basic Calculator </strong> - You can build a basic Calculator as your second beginner project which can add and subtract numbers. If you want, you can also make it to do many other operations.
 
 
-- <strong> E-commerce Website Template </strong> - You can create an e-commerce landing page template using ReactJs as a beginner. You can also add some more functionality to it such as the "add to cart" functionality and theme switch.
+- <strong> E-commerce Website Template </strong> - You can create an e-commerce landing page template using ReactJs as a beginner. You can also add some more functionality to it such as the <strong> add to cart </strong> functionality and <strong> theme switch</strong>.
 
 
 
