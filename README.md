@@ -31,5 +31,11 @@ Let's start off by 7 beginner or easy level projects. You can find the code atta
 
 - <strong> Messaging App Clone </strong> - You can create a clone of your favourite text app and if you can, you can also create a working chat application using ReactJs and NodeJs. This will boost your productivity and knowledge about ReactJs. *** ⚠ Warning: Use it for only learning purpose to avoid copyright ⚠ ***
 
+---
+
+## Intermediate Level Projects
+Let's now take a look at 7 intermediate ReactJs projects.
+
+- <strong> Weather App </strong> - You can create a working weather app using ReactJs and Hooks as your first Reactjs intermediate project. This project will help you in presenting your ReactJs skills and you can add it in your portfolio/resume.
 
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
