@@ -42,7 +42,7 @@ Let's now take a look at 7 intermediate ReactJs projects.
 
 - <strong> E-commerce website clone with functionalities </strong> - You can create a clone of your favourite e-commerce shopping website with some functionalities such as <b> Add to Cart</b>, <b>Price Calculator </b> etc. This project will be ideal to add in your resume/portfolio. *** ⚠ Warning: Use it for only learning purpose to avoid copyright ⚠ ***
 
-- <strong> Advanced Calculator </strong> - If you remember, there was a <b> basic calculator </b> project in the list of easy projects. This project is very similar to the first one, the difference being that you can add more features and functionalities such as multiplication, division, square, cube etc.
+- <strong> Advanced Calculator </strong> - If you remember, there was a <b> basic calculator </b> project in the list of <a href="https://github.com/Saarthak-Slathia/21-ReactJs-Projects/blob/main/README.md#easy-or-beginner-level-projects">easy projects</a>. This project is very similar to the first one, the difference being that you can add more features and functionalities such as multiplication, division, square, cube etc.
 
 - <strong> Currency Converter App </strong> - You can create a Currency converter app in ReactJs. You can start off by adding converting some of the most popular types of currency used, then if you want you can also convert other currencies. 
 
