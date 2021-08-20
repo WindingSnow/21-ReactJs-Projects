@@ -22,6 +22,7 @@ Let's start off by 7 beginner or easy level projects. You can find the code atta
 
 ---
 
+- E-commerce Website Template - You can create an e-commerce landing page template using ReactJs as a beginner. You can also add some more functionality to it such as the "add to cart" functionality and theme switch.
 
 
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
