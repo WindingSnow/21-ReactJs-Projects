@@ -1,4 +1,4 @@
-# 21-ReactJs-Projects
+# 21 ReactJs Projects
 This is a collection of 21 interesting React.Js projects. From beginner to advance level projects 🏗️
 
 ---
@@ -68,4 +68,10 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> Pacman Clone </strong> - This may be weird but creating a Pacman game with ReactJs is possible, although you will require mostly JavaScript but the use of React would be in building components and designs. This project will also boost up your css skills.
 
-#### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
+---
+
+## Thank You !!!
+
+Made with ❤ by [@Saarthak-Slathia](https://www.github.com/Saarthak-Slathia)
+
+If you find this repository helpful, please give it a ⭐🌟
