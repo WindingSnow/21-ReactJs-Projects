@@ -64,5 +64,8 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> News Web App </strong> - You can create a news website using ReactJs which will fetch live news from an API, and dispay it in the webpage. This can be a project worthy enough to add to your resume/portfolio.
 
+- <strong> Website Builder </strong> - You can create a website builder using ReactJs which can create responsive websites for the user based on their responses. This can be your biggest project and it is worthy enough to take place in your resume/portfolio.
+
+- <strong> Pacman Clone </strong> - This may be weird but creating a Pacman game with ReactJs is possible, although you will require mostly JavaScript but the use of React would be in building components and designs. This project will also boost up your css skills.
 
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
