@@ -58,5 +58,11 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> Online JavaScript Compiler </strong> - Although JavaScript can be compiled in the Browser console, creating an interactive JavaScript editor will boost your ReactJs skills. You can create an online JavaScript Compiler using JavaScript and ReactJs that compiles JavaScript in the browser itself. You can add other functionalities as well such as saving the document, syntax check etc.
 
-- <strong> Dynamic Weather App </strong> - In the list of <a href="https://github.com/Saarthak-Slathia/21-ReactJs-Projects/blob/main/README.md#intermediate-level-projects">intermediate level projects</a>, there was a project known as Weather app. This project is also very similar to the previous weather app, just the difference being that it will be more advanced and there will be more features such as <b>city search</b>, <b>theme switch </b> etc.
+- <strong> Dynamic Weather App </strong> - In the list of <a href="https://github.com/Saarthak-Slathia/21-ReactJs-Projects/blob/main/README.md#intermediate-level-projects">Intermediate level projects</a>, there was a project known as Weather app. This project is also very similar to the previous weather app, just the difference being that it will be more advanced and there will be more features such as <b>city search</b>, <b>theme switch </b> etc.
+
+- <strong> E-commerce website clone with authentication </strong> - This project, similar to the previous e-commerce project, will be an e-commerce shopping website clone <b>with authentication</b>. You can use <a href="https://firebase.google.com" target="_blank">firebase</a> provided by Google for authentication. This project can be a milestone in your ReactJs learning journey which will upgrade your ReactJs skills to another level. You can also add this project to your resume/portfolio. 
+
+- <strong> News Web App </strong> - You can create a news website using ReactJs which will fetch live news from an API, and dispay it in the webpage. This can be a project worthy enough to add to your resume/portfolio.
+
+
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
