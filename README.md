@@ -29,4 +29,7 @@ Let's start off by 7 beginner or easy level projects. You can find the code atta
 
 - <strong> Travel UI Landing Page </strong> - This project can take your CSS skills to another level. You can create a Travel UI Landing Page for a vacation trip website and if you want, you can create a complete travel trip website.
 
+- <strong> Messaging App Clone </strong> - You can create a clone of your favourite text app and if you can, you can also create a working chat application using ReactJs and NodeJs. This will boost your productivity and knowledge about ReactJs. *** ⚠ Warning: Use it for only learning purpose to avoid copyright ⚠ ***
+
+
 #### Area under maintainance 🚧👷🏻‍♂️ More Projects coming soon
