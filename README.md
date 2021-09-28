@@ -15,7 +15,7 @@ We will start off by 7 beginner projects, followed by 7 intermediate projects an
 
 Let's start off by 7 beginner or easy level projects. You can find the code attached to this repository.
 
-- <strong> Landing Page </strong> - You can create a perfect product landing page as your first beginner level project. It will not only boost your creativity but also improve your CSS skills.
+- <strong> Landing Page </strong> - You can create a perfect product landing page as your first beginner level project. It will not only boost your creativity but also improve your CSS skills and you will get the basic idea of features of ReactJs.
 
 
 - <strong> Basic Calculator </strong> - You can build a basic Calculator as your second beginner project which can add and subtract numbers. If you want, you can also make it to do many other operations.
