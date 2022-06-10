@@ -8,7 +8,7 @@ Let's see our project overview:-
 - Advance Projects
 
 
-We will start off by 7 beginner projects, followed by 7 intermediate projects and at last 7 advanced level projects 👍🏻
+We will start off with 7 beginner projects, followed by 7 intermediate projects and at last 7 advanced level projects 👍🏻
 
 ---
 ## Easy or Beginner Level Projects
