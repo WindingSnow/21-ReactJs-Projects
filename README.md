@@ -5,7 +5,7 @@ This is a collection of 21 interesting React.Js projects. From beginner to advan
 Let's see our project overview:-
 - Beginner or Easy Projects
 - Intermediate Projects
-- Advanced Level Projects
+- Advance Projects
 
 
 We will start off by 7 beginner projects, followed by 7 intermediate projects and at last 7 advanced level projects 👍🏻
@@ -51,7 +51,7 @@ Let's now take a look at 7 intermediate ReactJs projects.
 - <strong> Random Joke Generator </strong> - Creating a Joke generator can be very entertaining for your users. You can fetch the content for the joke from an API using JavaScript, displlay it and style it using CSS.
 
 
-## Advanced Level Projects
+## Advance Projects
 Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> Markdown Editor </strong> - You can create an advanced markdown editor using ReactJs whiich will be helpful in creating Readme etc. You can add this project to your resume/portfolio.
