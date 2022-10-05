@@ -75,3 +75,5 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 Made with ❤ by [@Saarthak-Slathia](https://www.github.com/Saarthak-Slathia)
 
 If you find this repository helpful, please give it a ⭐🌟
+
+You can leave your suggestions in the discussions tab of this repository 🤗
