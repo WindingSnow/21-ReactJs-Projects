@@ -62,7 +62,7 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> E-commerce website clone with authentication </strong> - This project, similar to the previous e-commerce project, will be an e-commerce shopping website clone <b>with authentication</b>. You can use <a href="https://firebase.google.com" target="_blank">firebase</a> provided by Google for authentication. This project can be a milestone in your ReactJs learning journey which will upgrade your ReactJs skills to another level. You can also add this project to your resume/portfolio. 
 
-- <strong> News Web App </strong> - You can create a news website using ReactJs which will fetch live news from an API, and dispay it in the webpage. This can be a project worthy enough to add to your resume/portfolio.
+- <strong> News Web App </strong> - You can create a news website using ReactJs which will fetch live news from an API, and display it in the webpage. This can be a project worthy enough to add to your resume/portfolio.
 
 - <strong> Website Builder </strong> - You can create a website builder using ReactJs which can create responsive websites for the user based on their responses. This can be your biggest project and it is worthy enough to take place in your resume/portfolio.
 
