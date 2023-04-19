@@ -72,15 +72,15 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 ## Thank You !!!
 
-Made with ❤ by [@Saarthak-Slathia](https://www.github.com/Saarthak-Slathia)
+Made with ❤ by ![@MindlessFeats](https://github.com/MindlessFeats)
 
 **Become a sponser to get access to my 30 JavaScript project ideas, ranging from beginner level all the way upto advance level**
 👇🏻
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Saarthak-Slathia)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/MindlessFeats)
 
 ---
 
 If you find this repository helpful, please give it a ⭐🌟
 
-You can leave your suggestions in the discussions tab of this repository 🤗
+You can leave your suggestions in the discussions tab of this repository
